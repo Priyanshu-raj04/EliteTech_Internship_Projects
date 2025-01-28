@@ -32,7 +32,7 @@ Key Features: Highlight the most influential features that impact employee attri
 
 
 
-Project 3: Customer Segmentation
+                                 Project 3: Customer Segmentation
 Objective:
 Segment customers into distinct groups based on purchasing behavior, demographic information, or any other relevant features to help with targeted marketing.
 Techniques Used:
